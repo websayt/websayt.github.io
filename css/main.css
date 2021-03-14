@@ -1,0 +1,153 @@
+body{
+    background-color: rgb(17, 17, 17);
+}
+
+.navbar{
+    background-color: #343A40!important;
+}
+.navnav{
+    display: flex;
+    
+}
+.myclass{
+    height: 600px;
+    
+}
+.menu{
+    color: rgba(250, 244, 244, 0.5) !important;
+   
+    font-size: 20px;
+    margin-right: 15px;
+    padding: 10px;
+}
+.menu:hover{
+    background-color: #545B62;
+    color: white !important;
+    border-radius: 4px;
+}
+
+.bird{
+   margin-top: 150px;
+}
+
+.blue{
+    font-size: 50px;
+    color: rgba(250, 244, 244, 0.5);
+    
+    
+}
+@media(max-width:1220px){
+    .blue{
+      font-size: 30px;
+    }
+    .menu{
+        font-size: 18px;
+    }
+    .main2{
+        font-size: 18px;
+    }
+}
+@media(max-width:1061px){
+    .menu{
+        font-size: 16px;
+    }
+    .main2{
+        font-size: 6px;  
+       
+    }
+}
+@media(max-width:991px){
+    .menu{
+        font-size: 19px;
+        margin-top: 4px;
+        
+    }
+    .menuright{
+        padding: 10px;
+    }
+    .main2{
+        font-size: 59px;
+        margin-top: 24px;
+    }
+   
+}
+@media(max-width:800px){
+    .blue{
+        font-size: 20px;
+    }
+    
+}
+@media(max-width:600px){
+    .menuright{
+        font-size: 16px;
+    }
+    .main2{
+        
+    }
+    
+}
+
+@media(max-width:341px){
+    .blue{
+        font-size: 18px;
+    }
+}
+
+
+
+.down{
+    font-size: 24px;
+    color: black;
+}
+
+.cards{
+    padding: 0;
+    margin-top: 100px;
+    
+}
+
+footer{
+    background-color: #343A40;
+   
+    height: 100px;
+}
+.text{
+    
+    margin-top: 55px;
+    padding-top: 18px;
+    color: #1E1E1E;
+    
+    margin-bottom: 0px;
+    
+}
+.social{
+    font-size: 50px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 10px;
+    
+}
+.fa-facebook:hover{color: #1E1E1E;}
+
+.type{
+    margin-top: 2px;
+    font-size: 20px;
+}
+
+.btn-secondary{
+   background-color: #343A40;
+   color: rgba(250, 244, 244, 0.5);
+   margin-right: 15px;
+   font-size: 20px;
+   padding: 10px;
+   border: none;
+   
+   
+}
+
+
+
+
+
+
+
